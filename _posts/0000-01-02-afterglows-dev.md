@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Only dull people are brillant at breakfast - Oscar Wilde
 Use the left arrow to go back!
